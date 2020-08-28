@@ -1,5 +1,5 @@
 ## last name:
-## lirst name:
+## first name:
 ## github username:
 
 ### general workflow:
