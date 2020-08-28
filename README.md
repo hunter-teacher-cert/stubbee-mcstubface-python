@@ -1,7 +1,7 @@
 ## last name:
 ## first name:
 ## github username:
-
+---------------------
 ### general workflow:
 0. Fill out the top of this form, commit and push it back to GitHub.
 1. For each assignment,
